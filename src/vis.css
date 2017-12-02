@@ -1,0 +1,24 @@
+.slider {
+    width: 50%;
+    margin: auto;
+    position: relative;
+    height: 50px;
+}
+
+.slider-bar {
+    background-color: salmon;
+    height: 10px;
+    border-radius: 3px;
+}
+
+.slider-dot {
+    cursor: pointer;
+}
+
+.graph-arc{
+    transition: all 1s;
+    stroke: 'red';
+    opacity: 1;
+}
+text {
+}
